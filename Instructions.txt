@@ -1,6 +1,11 @@
+To change path back to default:
+
 > Open properties of git bash
 > add --cd-to-home in 'Target:'
 > Replace by %HOMEDRIVE%%HOMEPATH% in 'Start in:'
+
+
+To change path to a specific folder:
 
 > Open properties of git bash
 > Remove "--cd-to-home" in 'Target:'
