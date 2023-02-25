@@ -1,0 +1,7 @@
+> Open properties of git bash
+> add --cd-to-home in 'Target:'
+> Replace by %HOMEDRIVE%%HOMEPATH% in 'Start in:'
+
+> Open properties of git bash
+> Remove "--cd-to-home" in 'Target:'
+> Replace by "D:\Git" in 'Start in:'
